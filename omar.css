@@ -1,0 +1,121 @@
+body{
+    background: linear-gradient(45deg, #ff6347, #008080);
+    
+}
+
+
+.tom{
+    display: flex;
+}
+.light{
+    display: flex;
+    background-image: url(imges/olkjh.jpg);
+    position: relative;
+}
+.read{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    text-decoration: none;
+}
+.the{
+    color: #ff6347;
+margin-left: 700px;
+}
+.late{
+    margin-top: 20px;
+
+}
+
+
+.kite{
+    color:darkslategray;
+ font-size: 30px;
+}
+
+.water{
+    color:darkslategray;
+	font-size: 40px;
+}
+.watere{
+    color:darkslategray;
+	font-size: 28px;
+}
+
+.late a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: black;
+    font-size: 20px;
+}
+.old{
+    
+    margin-top: 200px;
+    position: absolute;
+    margin-left: 70px;
+}
+.red{
+    border: 1px solid orange;
+    width: 80px;
+    height: 30px;
+    background-color: orange ;
+    border-radius: 5px;
+     }
+p{
+    color:darkslategray;
+margin-left: 10px;
+}
+
+.r{
+    width: 130px;
+height: 35px;
+border-radius: 7px;
+color: black;
+background: linear-gradient(45deg, coral, #008080);
+margin-left: 10px;
+font-size: 16px;
+}
+.e{
+    width: 130px;
+height: 35px;
+border-radius: 7px;
+color:black;
+background: linear-gradient(45deg,coral, #008080);
+font-size: 16px;
+}
+
+
+
+
+
+.img-box{
+    width: 700px;
+    height: 80%;
+    position: absolute;
+    bottom: 0;
+    right: 100px;
+    }
+
+
+    .img-box img {
+        height: 100%;
+        width: 350px;
+        position: absolute;
+        left: 400px;
+        bottom: 0;
+    }
+
+.er{
+display: flex;
+justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
